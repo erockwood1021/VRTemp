@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.26",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "OnlineSubsystemFacebook",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemOculus",
+			"Enabled": true
+		},
+		{
+			"Name": "OculusAudio",
+			"Enabled": true
+		}
+	],
+	"TargetPlatforms": [
+		"PS4",
+		"Android",
+		"WindowsNoEditor"
+	]
+}
